@@ -1,4 +1,4 @@
-import java.util.Scanner; \\\\\\\[[ppopo
+import java.util.Scanner; vicky
 import java.io.printer; 
 import java.io.collection; 
 import java.io.scanner;
